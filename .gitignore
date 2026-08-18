@@ -1,0 +1,12 @@
+# Локальные конфиги с паролями
+.env
+config.local.php
+
+# Зависимости
+/vendor/
+/node_modules/
+
+# Кэш и временные файлы
+*.log
+.DS_Store
+Thumbs.db
