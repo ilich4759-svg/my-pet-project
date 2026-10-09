@@ -1,0 +1,5 @@
+
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/h50233c/pet.webgrill.com.ua/
+    - /bin/cp -R * $DEPLOYPATH
